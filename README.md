@@ -25,8 +25,6 @@ The solution can be deployed either in production or development workloads in Az
  
 #### We are adding a route table, network security group, and availability set for the virtual machines to be deployed in your subscription. Please configure these objects as you see fit. You can also inherit both the existing route tables and network security groups that have already been preconfigured in your environment. The choice is yours.
 
-#### Please 
-
  ## Common Deployment Scenarios
 
 A common deployment scenario is to deploy the two Cisco Catalyst 8000v Edge on Azure within a Hub virtual network or a single virtual network to create a VPN tunnel within an Azure ExpressRoute. This deployment pattern allows the network traffic to be encrypted  between the cloud infrastructure and on-premises end to end. 
